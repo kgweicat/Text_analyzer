@@ -2,12 +2,10 @@ package avltree;
 
 /**
  *
- * @author Che-Wei Chou
+ * @author Che-Wei (Joanne) Chou
  */
 public class Node {
-    
-    //actually the variables are so explanatory why am I even commenting
-    
+
     //the actual data in the node
     private Word data;
     

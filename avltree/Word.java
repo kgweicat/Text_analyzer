@@ -2,11 +2,11 @@ package avltree;
 
 /**
  *
- * @author Che-Wei Chou
+ * @author Che-Wei (Joanne) Chou
  */
 public class Word implements Comparable{
     
-    //the actual word apparently
+    //the actual word
     private String word;
     
     //how many times the word has occurred in all the input strings

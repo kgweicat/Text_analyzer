@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 /**
  *
- * @author Che-Wei Chou
+ * @author Che-Wei (Joanne) Chou
  */
 public class AnalyzeSentence {
     
-    private static final String[] BAD_WORDS = {"fuck", "bitch", "ass"};
+    private static final String[] BAD_WORDS = {"fuck", "bitch", "ass", "asshole", "bastard", "cunt", "shit"};
 
     public static void main(String[] args) {
 
